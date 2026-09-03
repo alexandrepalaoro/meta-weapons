@@ -26,9 +26,7 @@ keywords:
   - "meta-analysis"
   - "fighting style"
   - "resource holding potential"
-# Uncomment and fill in once this repository has been archived on Zenodo.
-# Use the CONCEPT DOI (the one that always resolves to the newest version).
-# doi: "10.5281/zenodo.XXXXXXX"
+doi: "10.5281/zenodo.22286622"
 preferred-citation:
   type: article
   authors:
