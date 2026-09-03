@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use these data or this code, please cite both the article (preferred-citation) and this repository."
+type: software
+title: "Data and code for: The hidden links between animal weapons, fighting style, and their effect on contest success - a meta-analysis"
+abstract: "Data and code for a phylogenetic meta-analysis of how animal weapons influence contest success, and for the individual-based simulation that underpins its effect-size rationale. Contains 173 effect sizes from 49 studies and 52 species, the shared-control correlation matrices used in the multilevel models, the metafor analysis script, the forest-plot code and the simulation model."
+authors:
+  - family-names: Palaoro
+    given-names: Alexandre V.
+    orcid: "https://orcid.org/0000-0002-8629-0728"
+    affiliation: "Universidade Federal do Paraná, Curitiba, Brazil"
+  - family-names: Peixoto
+    given-names: Paulo Enrique Cardoso
+    orcid: "https://orcid.org/0000-0003-4127-625X"
+    affiliation: "Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+repository-code: "https://github.com/alexandrepalaoro/meta-weapons"
+url: "https://github.com/alexandrepalaoro/meta-weapons"
+license:
+  - MIT
+  - CC0-1.0
+keywords:
+  - "animal contests"
+  - "animal fighting"
+  - "morphological evolution"
+  - "sexual selection"
+  - "weapon biomechanics"
+  - "meta-analysis"
+  - "fighting style"
+  - "resource holding potential"
+# Uncomment and fill in once this repository has been archived on Zenodo.
+# Use the CONCEPT DOI (the one that always resolves to the newest version).
+# doi: "10.5281/zenodo.XXXXXXX"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Palaoro
+      given-names: Alexandre V.
+      orcid: "https://orcid.org/0000-0002-8629-0728"
+      affiliation: "Universidade Federal do Paraná, Curitiba, Brazil"
+    - family-names: Peixoto
+      given-names: Paulo Enrique Cardoso
+      orcid: "https://orcid.org/0000-0003-4127-625X"
+      affiliation: "Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+  title: "The hidden links between animal weapons, fighting style, and their effect on contest success: a meta-analysis"
+  journal: "Biological Reviews"
+  year: 2022
+  volume: 97
+  issue: 5
+  start: 1948
+  end: 1966
+  doi: "10.1111/brv.12877"

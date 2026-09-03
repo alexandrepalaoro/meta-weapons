@@ -1,0 +1,49 @@
+{
+  "title": "Data and code for: The hidden links between animal weapons, fighting style, and their effect on contest success - a meta-analysis",
+  "description": "<p>Data and code for a phylogenetic meta-analysis of how animal weapons influence contest success, and for the individual-based simulation that underpins its effect-size rationale. Contains 173 effect sizes from 49 studies and 52 species, the shared-control correlation matrices used in the multilevel models, the metafor analysis script, the forest-plot code and the simulation model.</p><p>Supplement to: The hidden links between animal weapons, fighting style, and their effect on contest success: a meta-analysis. <i>Biological Reviews</i> 97(5): 1948&ndash;1966. <a href=\"https://doi.org/10.1111/brv.12877\">doi:10.1111/brv.12877</a></p><p><b>Licensing.</b> The analysis code (.R, .Rmd, .html) is released under the MIT License. The data files, figures and stored model output are released into the public domain under CC0 1.0 Universal. See LICENSE and LICENSE-DATA in the archive.</p>",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Palaoro, Alexandre V.",
+      "affiliation": "Universidade Federal do Paraná, Curitiba, Brazil",
+      "orcid": "0000-0002-8629-0728"
+    },
+    {
+      "name": "Peixoto, Paulo Enrique Cardoso",
+      "affiliation": "Universidade Federal de Minas Gerais, Belo Horizonte, Brazil",
+      "orcid": "0000-0003-4127-625X"
+    }
+  ],
+  "keywords": [
+    "animal contests",
+    "animal fighting",
+    "morphological evolution",
+    "sexual selection",
+    "weapon biomechanics",
+    "meta-analysis",
+    "fighting style",
+    "resource holding potential"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1111/brv.12877",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://github.com/alexandrepalaoro/meta-weapons",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.1101/2020.08.26.268185",
+      "relation": "isPreviousVersionOf",
+      "scheme": "doi",
+      "resource_type": "publication-preprint"
+    }
+  ]
+}
